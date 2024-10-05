@@ -1,0 +1,4 @@
+[submodule "PersonalWebsite"]
+
+path = PersonalWebSite
+url = https://github.com/MaryNankya/PersonalWebSite.git
